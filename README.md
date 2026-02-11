@@ -1,12 +1,33 @@
 # Sales Order Performance Analysis (Power BI)
 
-## Project Overview
-
 Ever wondered how much visibility a well-structured BI dashboard can give into sales performance, customer behavior, and operational efficiency?
 
 This project presents a complete end-to-end Sales Order Performance Analysis built in Power BI. The objective was to transform raw transactional sales data into an interactive business intelligence solution that enables strategic decision-making.
 
 The project covers the full analytics workflow, from data ingestion and transformation to data modeling, DAX development, and interactive dashboard design, with an emphasis on performance, usability, and business decision-making.
+
+# Table of Contents
+
+1. [Project Overview](#project-overview)  
+2. [Live Interactive Dashboard](#live-interactive-dashboard)  
+3. [Business Context](#business-context)  
+4. [Project Objectives](#project-objectives)  
+5. [Business Questions](#business-questions)  
+6. [Dataset Description (Raw Data)](#dataset-description-raw-data)  
+7. [Tools & Technologies](#tools--technologies)  
+8. [Project Workflow](#project-workflow)  
+9. [Key Insights Uncovered](#key-insights-uncovered)  
+10. [Strategic Recommendations](#strategic-recommendations)  
+11. [Business Impact](#business-impact)  
+12. [Limitations](#limitations)  
+13. [Challenges Faced](#challenges-faced)  
+14. [Conclusion](#conclusion)  
+15. [Author](#author)  
+16. [Contact](#contact)
+
+## Project Overview
+
+This project delivers a comprehensive Sales Order Performance Analysis using Power BI, transforming raw sales data into a business-ready, interactive dashboard.
 
 ## Live Interactive Dashboard
 
