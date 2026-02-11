@@ -420,7 +420,7 @@ Ibrahim Abdulrasaq | Data Analyst | BI Analyst
 
 If you’d like to discuss this project or collaborate on data analytics work, feel free to connect.
 
-🔗 [Email](ibrahimabdulrasaqademola2017@gmail.com)
+🔗 [Email](mailto:ibrahimabdulrasaqademola2017@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-abdulrasaq/)
 
