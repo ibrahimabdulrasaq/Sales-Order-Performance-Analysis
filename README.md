@@ -31,7 +31,7 @@ This project delivers a comprehensive Sales Order Performance Analysis using Pow
 
 ## Live Interactive Dashboard
 
-👉 View the interactive dashboard here: [Click to Explore](https://www.novypro.com/profile_about/1768603691117x499853414232449100?Popup=memberProject&Data=1770568818137x550972039693662600)
+👉 View the interactive dashboard here: [Click to Explore](https://app.powerbi.com/view?r=eyJrIjoiNTU3OWYwNjQtZmEzYy00NGE0LTkwODgtOGIzNTVhZmRmY2UzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7d772bde4dbaf130def4)
 
 ## Business Context
 
